@@ -407,6 +407,7 @@ h2 {
 
 .blog-left p {
   color: #999;
+  text-align: justify;
 }
 
 .blog-right {
