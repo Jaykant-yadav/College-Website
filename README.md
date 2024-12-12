@@ -41,6 +41,5 @@ This repository contains the source code for a college website, providing essent
     * **Home Page:** "Showcase of student life, campus photos, and testimonials."
     * **About Us:** "Information about, campus facilities."
     * **Contact:** "phone numbers, and social media links."
-*
 
 I hope this enhanced README provides a solid foundation for your college website project!
